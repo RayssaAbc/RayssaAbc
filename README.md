@@ -1,48 +1,48 @@
-<h1 align="center">Olá! Bem vindo(a) ao meu perfil do GitHub!</h1>
+<h1 align="center">Olá! Bem-vindo(a) ao meu perfil 👩🏻‍💻📊</h1>
 
-###
+## 📊 Sobre mim
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-</div>
+Sou estudante com foco em Análise de Dados, apaixonada por transformar dados em informações estratégicas para tomada de decisão.
 
-###
+Tenho interesse em:
+- Análise Exploratória de Dados (EDA)
+- Visualização de Dados
+- Business Intelligence
+- Modelagem e consulta de bancos relacionais
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rayssa-olivei/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" />
 </div>
 
-###
+**Banco de Dados:**
+- PostgreSQL  
+- SQL Server  
 
+**Linguagens:**
+- SQL  
+- Python  
 
+---
 
-###
+## 📈 Estatísticas GitHub
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RayssaAbc/RayssaAbc/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RayssaAbc/RayssaAbc/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RayssaAbc/RayssaAbc/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayssaAbc&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayssaAbc&layout=compact"/>
+</div>
 
-###
+---
 
+## 📌 Objetivo Profissional
+
+Atuar como Analista de Dados, aplicando SQL e Python para gerar insights, criar relatórios e apoiar decisões estratégicas baseadas em dados.
